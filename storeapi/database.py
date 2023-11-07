@@ -5,6 +5,7 @@ from storeapi.config import config
 
 metadata = sqlalchemy.MetaData()
 
+# bla bla bla
 post_table = sqlalchemy.Table(
     "posts",
     metadata,
